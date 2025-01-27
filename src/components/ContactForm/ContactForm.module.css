@@ -1,0 +1,26 @@
+.formContainer {
+  border: 1px solid black;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px;
+  margin-bottom: 32px;
+}
+
+.error {
+  color: #d9534f;
+  font-size: 10px;
+  margin: 0;
+  font-weight: 500;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  width: 120px;
+  padding: 8px;
+  font-size: 16px;
+  margin-top: 28px;
+}

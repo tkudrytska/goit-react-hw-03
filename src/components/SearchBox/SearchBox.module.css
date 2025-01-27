@@ -1,0 +1,9 @@
+.text {
+  margin: 0 0 8px 0;
+}
+
+.filter {
+  margin-bottom: 32px;
+  width: 100%;
+  padding: 4px 8px;
+}
